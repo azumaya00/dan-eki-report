@@ -1,384 +1,448 @@
 [
   {
     "id": 1,
+    "palace": "乾",
     "shiIndex": 6,
     "yingIndex": 3,
     "flags": ["六冲卦"]
   },
   {
     "id": 2,
+    "palace": "兌",
     "shiIndex": 6,
     "yingIndex": 3,
     "flags": ["六冲卦"]
   },
   {
     "id": 3,
+    "palace": "離",
     "shiIndex": 6,
     "yingIndex": 3,
     "flags": ["六冲卦"]
   },
   {
     "id": 4,
+    "palace": "震",
     "shiIndex": 6,
     "yingIndex": 3,
     "flags": ["六冲卦"]
   },
   {
     "id": 5,
+    "palace": "巽",
     "shiIndex": 6,
     "yingIndex": 3,
     "flags": ["六冲卦"]
   },
   {
     "id": 6,
+    "palace": "坎",
     "shiIndex": 6,
     "yingIndex": 3,
     "flags": ["六冲卦"]
   },
   {
     "id": 7,
+    "palace": "艮",
     "shiIndex": 6,
     "yingIndex": 3,
     "flags": ["六冲卦"]
   },
   {
     "id": 8,
+    "palace": "坤",
     "shiIndex": 6,
     "yingIndex": 3,
     "flags": ["六冲卦"]
   },
   {
     "id": 9,
+    "palace": "乾",
     "shiIndex": 1,
     "yingIndex": 4,
     "flags": []
   },
   {
     "id": 10,
+    "palace": "兌",
     "shiIndex": 1,
     "yingIndex": 4,
     "flags": ["六合卦"]
   },
   {
     "id": 11,
+    "palace": "離",
     "shiIndex": 1,
     "yingIndex": 4,
     "flags": ["六合卦"]
   },
   {
     "id": 12,
+    "palace": "震",
     "shiIndex": 1,
     "yingIndex": 4,
     "flags": ["六合卦"]
   },
   {
     "id": 13,
+    "palace": "巽",
     "shiIndex": 1,
     "yingIndex": 4,
     "flags": []
   },
   {
     "id": 14,
+    "palace": "坎",
     "shiIndex": 1,
     "yingIndex": 4,
     "flags": ["六合卦"]
   },
   {
     "id": 15,
+    "palace": "艮",
     "shiIndex": 1,
     "yingIndex": 4,
     "flags": ["六合卦"]
   },
   {
     "id": 16,
+    "palace": "坤",
     "shiIndex": 1,
     "yingIndex": 4,
     "flags": ["六合卦"]
   },
   {
     "id": 17,
+    "palace": "乾",
     "shiIndex": 2,
     "yingIndex": 5,
     "flags": []
   },
   {
     "id": 18,
+    "palace": "兌",
     "shiIndex": 2,
     "yingIndex": 5,
     "flags": []
   },
   {
     "id": 19,
+    "palace": "離",
     "shiIndex": 2,
     "yingIndex": 5,
     "flags": []
   },
   {
     "id": 20,
+    "palace": "震",
     "shiIndex": 2,
     "yingIndex": 5,
     "flags": []
   },
   {
     "id": 21,
+    "palace": "巽",
     "shiIndex": 2,
     "yingIndex": 5,
     "flags": []
   },
   {
     "id": 22,
+    "palace": "坎",
     "shiIndex": 2,
     "yingIndex": 5,
     "flags": []
   },
   {
     "id": 23,
+    "palace": "艮",
     "shiIndex": 2,
     "yingIndex": 5,
     "flags": []
   },
   {
     "id": 24,
+    "palace": "坤",
     "shiIndex": 2,
     "yingIndex": 5,
     "flags": []
   },
   {
     "id": 25,
+    "palace": "乾",
     "shiIndex": 3,
     "yingIndex": 6,
-    "flags": ["六合卦"]
+    "flags": []
   },
   {
     "id": 26,
+    "palace": "兌",
     "shiIndex": 3,
     "yingIndex": 6,
     "flags": []
   },
   {
     "id": 27,
+    "palace": "離",
     "shiIndex": 3,
     "yingIndex": 6,
-    "flags": ["六冲卦"]
+    "flags": []
   },
   {
     "id": 28,
+    "palace": "震",
     "shiIndex": 3,
     "yingIndex": 6,
     "flags": []
   },
   {
     "id": 29,
+    "palace": "巽",
     "shiIndex": 3,
     "yingIndex": 6,
     "flags": []
   },
   {
     "id": 30,
+    "palace": "坎",
     "shiIndex": 3,
     "yingIndex": 6,
-    "flags": ["六合卦"]
+    "flags": []
   },
   {
     "id": 31,
+    "palace": "艮",
     "shiIndex": 3,
     "yingIndex": 6,
     "flags": []
   },
   {
     "id": 32,
+    "palace": "坤",
     "shiIndex": 3,
     "yingIndex": 6,
-    "flags": ["六合卦"]
+    "flags": []
   },
   {
     "id": 33,
+    "palace": "乾",
     "shiIndex": 4,
     "yingIndex": 1,
     "flags": []
   },
   {
     "id": 34,
+    "palace": "兌",
     "shiIndex": 4,
     "yingIndex": 1,
     "flags": []
   },
   {
     "id": 35,
+    "palace": "離",
     "shiIndex": 4,
     "yingIndex": 1,
     "flags": []
   },
   {
     "id": 36,
+    "palace": "震",
     "shiIndex": 4,
     "yingIndex": 1,
     "flags": []
   },
   {
     "id": 37,
+    "palace": "巽",
     "shiIndex": 4,
     "yingIndex": 1,
-    "flags": ["六冲卦"]
+    "flags": []
   },
   {
     "id": 38,
+    "palace": "坎",
     "shiIndex": 4,
     "yingIndex": 1,
     "flags": []
   },
   {
     "id": 39,
+    "palace": "艮",
     "shiIndex": 4,
     "yingIndex": 1,
     "flags": []
   },
   {
     "id": 40,
+    "palace": "坤",
     "shiIndex": 4,
     "yingIndex": 1,
-    "flags": ["六冲卦"]
+    "flags": []
   },
   {
     "id": 41,
+    "palace": "乾",
     "shiIndex": 5,
     "yingIndex": 2,
     "flags": []
   },
   {
     "id": 42,
+    "palace": "兌",
     "shiIndex": 5,
     "yingIndex": 2,
     "flags": []
   },
   {
     "id": 43,
+    "palace": "離",
     "shiIndex": 5,
     "yingIndex": 2,
     "flags": []
   },
   {
     "id": 44,
+    "palace": "震",
     "shiIndex": 5,
     "yingIndex": 2,
     "flags": []
   },
   {
     "id": 45,
+    "palace": "巽",
     "shiIndex": 5,
     "yingIndex": 2,
     "flags": []
   },
   {
     "id": 46,
+    "palace": "坎",
     "shiIndex": 5,
     "yingIndex": 2,
     "flags": []
   },
   {
     "id": 47,
+    "palace": "艮",
     "shiIndex": 5,
     "yingIndex": 2,
     "flags": []
   },
   {
     "id": 48,
+    "palace": "坤",
     "shiIndex": 5,
     "yingIndex": 2,
     "flags": []
   },
   {
     "id": 49,
+    "palace": "乾",
     "shiIndex": 4,
     "yingIndex": 1,
     "flags": ["遊魂卦"]
   },
   {
     "id": 50,
+    "palace": "兌",
     "shiIndex": 4,
     "yingIndex": 1,
     "flags": ["遊魂卦"]
   },
   {
     "id": 51,
+    "palace": "離",
     "shiIndex": 4,
     "yingIndex": 1,
     "flags": ["遊魂卦"]
   },
   {
     "id": 52,
+    "palace": "震",
     "shiIndex": 4,
     "yingIndex": 1,
     "flags": ["遊魂卦"]
   },
   {
     "id": 53,
+    "palace": "巽",
     "shiIndex": 4,
     "yingIndex": 1,
     "flags": ["遊魂卦"]
   },
   {
     "id": 54,
+    "palace": "坎",
     "shiIndex": 2,
     "yingIndex": 5,
     "flags": ["遊魂卦"]
   },
   {
     "id": 55,
+    "palace": "艮",
     "shiIndex": 4,
     "yingIndex": 1,
     "flags": ["遊魂卦"]
   },
   {
     "id": 56,
+    "palace": "坤",
     "shiIndex": 4,
     "yingIndex": 1,
     "flags": ["遊魂卦"]
   },
   {
     "id": 57,
+    "palace": "乾",
     "shiIndex": 3,
     "yingIndex": 6,
     "flags": ["帰魂卦"]
   },
   {
     "id": 58,
+    "palace": "兌",
     "shiIndex": 3,
     "yingIndex": 6,
     "flags": ["帰魂卦"]
   },
   {
     "id": 59,
+    "palace": "離",
     "shiIndex": 3,
     "yingIndex": 6,
     "flags": ["帰魂卦"]
   },
   {
     "id": 60,
+    "palace": "震",
     "shiIndex": 3,
     "yingIndex": 6,
     "flags": ["帰魂卦"]
   },
   {
     "id": 61,
+    "palace": "巽",
     "shiIndex": 3,
     "yingIndex": 6,
     "flags": ["帰魂卦"]
   },
   {
     "id": 62,
+    "palace": "坎",
     "shiIndex": 3,
     "yingIndex": 6,
     "flags": ["帰魂卦"]
   },
   {
     "id": 63,
+    "palace": "艮",
     "shiIndex": 3,
     "yingIndex": 6,
     "flags": ["帰魂卦"]
   },
   {
     "id": 64,
+    "palace": "坤",
     "shiIndex": 3,
     "yingIndex": 6,
     "flags": ["帰魂卦"]
