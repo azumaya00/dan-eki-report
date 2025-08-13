@@ -3,108 +3,108 @@
     "id": 1,
     "shiIndex": 6,
     "yingIndex": 3,
-    "flags": ["遊魂"]
+    "flags": ["六冲卦"]
   },
   {
     "id": 2,
     "shiIndex": 6,
     "yingIndex": 3,
-    "flags": ["帰魂"]
+    "flags": ["六冲卦"]
   },
   {
     "id": 3,
-    "shiIndex": 4,
-    "yingIndex": 1,
-    "flags": []
+    "shiIndex": 6,
+    "yingIndex": 3,
+    "flags": ["六冲卦"]
   },
   {
     "id": 4,
-    "shiIndex": 4,
-    "yingIndex": 1,
-    "flags": []
+    "shiIndex": 6,
+    "yingIndex": 3,
+    "flags": ["六冲卦"]
   },
   {
     "id": 5,
-    "shiIndex": 4,
-    "yingIndex": 1,
-    "flags": []
+    "shiIndex": 6,
+    "yingIndex": 3,
+    "flags": ["六冲卦"]
   },
   {
     "id": 6,
-    "shiIndex": 4,
-    "yingIndex": 1,
-    "flags": []
+    "shiIndex": 6,
+    "yingIndex": 3,
+    "flags": ["六冲卦"]
   },
   {
     "id": 7,
-    "shiIndex": 2,
-    "yingIndex": 5,
-    "flags": []
+    "shiIndex": 6,
+    "yingIndex": 3,
+    "flags": ["六冲卦"]
   },
   {
     "id": 8,
-    "shiIndex": 2,
-    "yingIndex": 5,
-    "flags": []
+    "shiIndex": 6,
+    "yingIndex": 3,
+    "flags": ["六冲卦"]
   },
   {
     "id": 9,
-    "shiIndex": 4,
-    "yingIndex": 1,
+    "shiIndex": 1,
+    "yingIndex": 4,
     "flags": []
   },
   {
     "id": 10,
-    "shiIndex": 4,
-    "yingIndex": 1,
-    "flags": []
+    "shiIndex": 1,
+    "yingIndex": 4,
+    "flags": ["六合卦"]
   },
   {
     "id": 11,
     "shiIndex": 1,
     "yingIndex": 4,
-    "flags": []
+    "flags": ["六合卦"]
   },
   {
     "id": 12,
     "shiIndex": 1,
     "yingIndex": 4,
-    "flags": []
+    "flags": ["六合卦"]
   },
   {
     "id": 13,
-    "shiIndex": 4,
-    "yingIndex": 1,
+    "shiIndex": 1,
+    "yingIndex": 4,
     "flags": []
   },
   {
     "id": 14,
-    "shiIndex": 4,
-    "yingIndex": 1,
-    "flags": []
+    "shiIndex": 1,
+    "yingIndex": 4,
+    "flags": ["六合卦"]
   },
   {
     "id": 15,
-    "shiIndex": 2,
-    "yingIndex": 5,
-    "flags": []
+    "shiIndex": 1,
+    "yingIndex": 4,
+    "flags": ["六合卦"]
   },
   {
     "id": 16,
-    "shiIndex": 2,
-    "yingIndex": 5,
-    "flags": []
+    "shiIndex": 1,
+    "yingIndex": 4,
+    "flags": ["六合卦"]
   },
   {
     "id": 17,
-    "shiIndex": 4,
-    "yingIndex": 1,
+    "shiIndex": 2,
+    "yingIndex": 5,
     "flags": []
   },
   {
     "id": 18,
-    "shiIndex": 4,
-    "yingIndex": 1,
+    "shiIndex": 2,
+    "yingIndex": 5,
     "flags": []
   },
   {
@@ -121,14 +121,14 @@
   },
   {
     "id": 21,
-    "shiIndex": 4,
-    "yingIndex": 1,
+    "shiIndex": 2,
+    "yingIndex": 5,
     "flags": []
   },
   {
     "id": 22,
-    "shiIndex": 4,
-    "yingIndex": 1,
+    "shiIndex": 2,
+    "yingIndex": 5,
     "flags": []
   },
   {
@@ -145,51 +145,51 @@
   },
   {
     "id": 25,
-    "shiIndex": 4,
-    "yingIndex": 1,
-    "flags": []
+    "shiIndex": 3,
+    "yingIndex": 6,
+    "flags": ["六合卦"]
   },
   {
     "id": 26,
-    "shiIndex": 4,
-    "yingIndex": 1,
+    "shiIndex": 3,
+    "yingIndex": 6,
     "flags": []
   },
   {
     "id": 27,
-    "shiIndex": 4,
-    "yingIndex": 1,
-    "flags": []
+    "shiIndex": 3,
+    "yingIndex": 6,
+    "flags": ["六冲卦"]
   },
   {
     "id": 28,
-    "shiIndex": 4,
-    "yingIndex": 1,
+    "shiIndex": 3,
+    "yingIndex": 6,
     "flags": []
   },
   {
     "id": 29,
-    "shiIndex": 6,
-    "yingIndex": 3,
-    "flags": ["遊魂"]
+    "shiIndex": 3,
+    "yingIndex": 6,
+    "flags": []
   },
   {
     "id": 30,
-    "shiIndex": 6,
-    "yingIndex": 3,
-    "flags": ["帰魂"]
+    "shiIndex": 3,
+    "yingIndex": 6,
+    "flags": ["六合卦"]
   },
   {
     "id": 31,
-    "shiIndex": 4,
-    "yingIndex": 1,
+    "shiIndex": 3,
+    "yingIndex": 6,
     "flags": []
   },
   {
     "id": 32,
-    "shiIndex": 4,
-    "yingIndex": 1,
-    "flags": []
+    "shiIndex": 3,
+    "yingIndex": 6,
+    "flags": ["六合卦"]
   },
   {
     "id": 33,
@@ -205,21 +205,21 @@
   },
   {
     "id": 35,
-    "shiIndex": 2,
-    "yingIndex": 5,
+    "shiIndex": 4,
+    "yingIndex": 1,
     "flags": []
   },
   {
     "id": 36,
-    "shiIndex": 2,
-    "yingIndex": 5,
+    "shiIndex": 4,
+    "yingIndex": 1,
     "flags": []
   },
   {
     "id": 37,
     "shiIndex": 4,
     "yingIndex": 1,
-    "flags": []
+    "flags": ["六冲卦"]
   },
   {
     "id": 38,
@@ -237,150 +237,150 @@
     "id": 40,
     "shiIndex": 4,
     "yingIndex": 1,
-    "flags": []
+    "flags": ["六冲卦"]
   },
   {
     "id": 41,
-    "shiIndex": 4,
-    "yingIndex": 1,
+    "shiIndex": 5,
+    "yingIndex": 2,
     "flags": []
   },
   {
     "id": 42,
-    "shiIndex": 4,
-    "yingIndex": 1,
+    "shiIndex": 5,
+    "yingIndex": 2,
     "flags": []
   },
   {
     "id": 43,
-    "shiIndex": 4,
-    "yingIndex": 1,
+    "shiIndex": 5,
+    "yingIndex": 2,
     "flags": []
   },
   {
     "id": 44,
-    "shiIndex": 4,
-    "yingIndex": 1,
+    "shiIndex": 5,
+    "yingIndex": 2,
     "flags": []
   },
   {
     "id": 45,
-    "shiIndex": 2,
-    "yingIndex": 5,
+    "shiIndex": 5,
+    "yingIndex": 2,
     "flags": []
   },
   {
     "id": 46,
-    "shiIndex": 2,
-    "yingIndex": 5,
+    "shiIndex": 5,
+    "yingIndex": 2,
     "flags": []
   },
   {
     "id": 47,
-    "shiIndex": 4,
-    "yingIndex": 1,
+    "shiIndex": 5,
+    "yingIndex": 2,
     "flags": []
   },
   {
     "id": 48,
-    "shiIndex": 4,
-    "yingIndex": 1,
+    "shiIndex": 5,
+    "yingIndex": 2,
     "flags": []
   },
   {
     "id": 49,
     "shiIndex": 4,
     "yingIndex": 1,
-    "flags": []
+    "flags": ["遊魂卦"]
   },
   {
     "id": 50,
     "shiIndex": 4,
     "yingIndex": 1,
-    "flags": []
+    "flags": ["遊魂卦"]
   },
   {
     "id": 51,
-    "shiIndex": 6,
-    "yingIndex": 3,
-    "flags": ["遊魂"]
+    "shiIndex": 4,
+    "yingIndex": 1,
+    "flags": ["遊魂卦"]
   },
   {
     "id": 52,
-    "shiIndex": 6,
-    "yingIndex": 3,
-    "flags": ["帰魂"]
+    "shiIndex": 4,
+    "yingIndex": 1,
+    "flags": ["遊魂卦"]
   },
   {
     "id": 53,
     "shiIndex": 4,
     "yingIndex": 1,
-    "flags": []
+    "flags": ["遊魂卦"]
   },
   {
     "id": 54,
-    "shiIndex": 4,
-    "yingIndex": 1,
-    "flags": []
+    "shiIndex": 2,
+    "yingIndex": 5,
+    "flags": ["遊魂卦"]
   },
   {
     "id": 55,
     "shiIndex": 4,
     "yingIndex": 1,
-    "flags": []
+    "flags": ["遊魂卦"]
   },
   {
     "id": 56,
     "shiIndex": 4,
     "yingIndex": 1,
-    "flags": []
+    "flags": ["遊魂卦"]
   },
   {
     "id": 57,
-    "shiIndex": 6,
-    "yingIndex": 3,
-    "flags": ["遊魂"]
+    "shiIndex": 3,
+    "yingIndex": 6,
+    "flags": ["帰魂卦"]
   },
   {
     "id": 58,
-    "shiIndex": 6,
-    "yingIndex": 3,
-    "flags": ["帰魂"]
+    "shiIndex": 3,
+    "yingIndex": 6,
+    "flags": ["帰魂卦"]
   },
   {
     "id": 59,
-    "shiIndex": 4,
-    "yingIndex": 1,
-    "flags": []
+    "shiIndex": 3,
+    "yingIndex": 6,
+    "flags": ["帰魂卦"]
   },
   {
     "id": 60,
-    "shiIndex": 4,
-    "yingIndex": 1,
-    "flags": []
+    "shiIndex": 3,
+    "yingIndex": 6,
+    "flags": ["帰魂卦"]
   },
   {
     "id": 61,
-    "shiIndex": 4,
-    "yingIndex": 1,
-    "flags": []
+    "shiIndex": 3,
+    "yingIndex": 6,
+    "flags": ["帰魂卦"]
   },
   {
     "id": 62,
-    "shiIndex": 4,
-    "yingIndex": 1,
-    "flags": []
+    "shiIndex": 3,
+    "yingIndex": 6,
+    "flags": ["帰魂卦"]
   },
   {
     "id": 63,
-    "shiIndex": 4,
-    "yingIndex": 1,
-    "flags": ["六合"]
+    "shiIndex": 3,
+    "yingIndex": 6,
+    "flags": ["帰魂卦"]
   },
   {
     "id": 64,
-    "shiIndex": 4,
-    "yingIndex": 1,
-    "flags": ["六冲"]
+    "shiIndex": 3,
+    "yingIndex": 6,
+    "flags": ["帰魂卦"]
   }
 ]
