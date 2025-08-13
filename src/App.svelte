@@ -111,7 +111,7 @@
                 </tr>
               </thead>
               <tbody>
-                {#each hexView.lines as line}
+                {#each hexView.lines.slice().reverse() as line}
                   <tr class="border-b border-[var(--border)] hover:bg-[var(--surface)] transition-colors">
                     <td class="text-center py-3 text-[var(--text-primary)] font-medium">
                       {line.index}
