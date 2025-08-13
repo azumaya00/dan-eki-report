@@ -1,0 +1,38 @@
+# Dependencies / build
+node_modules/
+dist/
+.vite/
+.svelte-kit/
+*.log
+
+# Local-only docs & binaries
+docs-local/
+data/
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.heic
+*.zip
+
+# Vite
+.vite/
+dist/
+dist-ssr/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
