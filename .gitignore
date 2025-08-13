@@ -36,3 +36,7 @@ dist-ssr/
 # OS
 .DS_Store
 Thumbs.db
+
+# --- このプロジェクトでは json/ を追跡する ---
+!json/
+!json/**

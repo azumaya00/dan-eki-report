@@ -1,15 +1,15 @@
 <script lang="ts">
-  import Layout from './components/Layout.svelte';
+  import Layout from '../components/Layout.svelte';
   import { onMount } from 'svelte';
-  import type { HexView } from './lib/types';
-  import { getAllHexagrams } from './lib/logic/na';
-  import { getHexView } from './lib/logic/na';
-
+  import type { HexView } from '../lib/types';
+  import { getAllHexagrams } from '../lib/logic/na';
+  import { getHexView } from '../lib/logic/na';
+  
   let hexagrams: Array<{ id: number; name: string }> = [];
   let selectedHexId: number = 1;
   let hexView: HexView | null = null;
   let loading = false;
-
+  
   onMount(async () => {
     try {
       hexagrams = await getAllHexagrams();
@@ -21,10 +21,10 @@
       console.error('卦データの読み込みに失敗しました:', error);
     }
   });
-
+  
   async function loadHexView() {
     if (!selectedHexId) return;
-
+    
     loading = true;
     try {
       hexView = getHexView(selectedHexId);
@@ -35,7 +35,7 @@
       loading = false;
     }
   }
-
+  
   async function onHexChange(event: Event) {
     const target = event.target as HTMLSelectElement;
     selectedHexId = parseInt(target.value);
@@ -86,7 +86,7 @@
             <h3 class="card-title text-2xl font-semibold text-[var(--text-primary)]">
               {hexView.id}: {hexView.name}
             </h3>
-
+            
             <!-- フラグバッジ -->
             {#if hexView.flags.length > 0}
               <div class="flex flex-wrap gap-2">

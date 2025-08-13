@@ -1,3 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
@@ -12,6 +16,38 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
+
+  /* CSS変数定義 */
+  --bg: #0f141a;
+  --surface: #161c24;
+  --card: #1b2230;
+  --border: #2a3345;
+  --text-primary: #e8ecf1;
+  --text-muted: #b9c2cf;
+  --accent: #8fd3e8;
+  --accent-2: #b7a1e5;
+}
+
+[data-theme="daneki-dark"] {
+  --bg: #0B1016;
+  --surface: #121823;
+  --card: #1B2433;
+  --border: #2E3A52;
+  --text-primary: #F0F3F7;
+  --text-muted: #BAC6D6;
+  --accent: #8FD3E8;
+  --accent-2: #BBA7F0;
+}
+
+[data-theme="daneki-light"] {
+  --bg: #F5F7FA;
+  --surface: #FFFFFF;
+  --card: #FFFFFF;
+  --border: #E5E7EB;
+  --text-primary: #1f2937;
+  --text-muted: #6B7280;
+  --accent: #8FD3E8;
+  --accent-2: #BBA7F0;
 }
 
 a {

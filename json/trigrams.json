@@ -1,0 +1,10 @@
+[
+  { "index": 1, "name": "乾", "binary": "111", "element": "金" },
+  { "index": 2, "name": "兌", "binary": "110", "element": "金" },
+  { "index": 3, "name": "離", "binary": "101", "element": "火" },
+  { "index": 4, "name": "震", "binary": "100", "element": "木" },
+  { "index": 5, "name": "巽", "binary": "011", "element": "木" },
+  { "index": 6, "name": "坎", "binary": "010", "element": "水" },
+  { "index": 7, "name": "艮", "binary": "001", "element": "土" },
+  { "index": 8, "name": "坤", "binary": "000", "element": "土" }
+]

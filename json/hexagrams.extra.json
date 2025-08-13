@@ -1,0 +1,386 @@
+[
+  {
+    "id": 1,
+    "shiIndex": 6,
+    "yingIndex": 3,
+    "flags": ["遊魂"]
+  },
+  {
+    "id": 2,
+    "shiIndex": 6,
+    "yingIndex": 3,
+    "flags": ["帰魂"]
+  },
+  {
+    "id": 3,
+    "shiIndex": 4,
+    "yingIndex": 1,
+    "flags": []
+  },
+  {
+    "id": 4,
+    "shiIndex": 4,
+    "yingIndex": 1,
+    "flags": []
+  },
+  {
+    "id": 5,
+    "shiIndex": 4,
+    "yingIndex": 1,
+    "flags": []
+  },
+  {
+    "id": 6,
+    "shiIndex": 4,
+    "yingIndex": 1,
+    "flags": []
+  },
+  {
+    "id": 7,
+    "shiIndex": 2,
+    "yingIndex": 5,
+    "flags": []
+  },
+  {
+    "id": 8,
+    "shiIndex": 2,
+    "yingIndex": 5,
+    "flags": []
+  },
+  {
+    "id": 9,
+    "shiIndex": 4,
+    "yingIndex": 1,
+    "flags": []
+  },
+  {
+    "id": 10,
+    "shiIndex": 4,
+    "yingIndex": 1,
+    "flags": []
+  },
+  {
+    "id": 11,
+    "shiIndex": 1,
+    "yingIndex": 4,
+    "flags": []
+  },
+  {
+    "id": 12,
+    "shiIndex": 1,
+    "yingIndex": 4,
+    "flags": []
+  },
+  {
+    "id": 13,
+    "shiIndex": 4,
+    "yingIndex": 1,
+    "flags": []
+  },
+  {
+    "id": 14,
+    "shiIndex": 4,
+    "yingIndex": 1,
+    "flags": []
+  },
+  {
+    "id": 15,
+    "shiIndex": 2,
+    "yingIndex": 5,
+    "flags": []
+  },
+  {
+    "id": 16,
+    "shiIndex": 2,
+    "yingIndex": 5,
+    "flags": []
+  },
+  {
+    "id": 17,
+    "shiIndex": 4,
+    "yingIndex": 1,
+    "flags": []
+  },
+  {
+    "id": 18,
+    "shiIndex": 4,
+    "yingIndex": 1,
+    "flags": []
+  },
+  {
+    "id": 19,
+    "shiIndex": 2,
+    "yingIndex": 5,
+    "flags": []
+  },
+  {
+    "id": 20,
+    "shiIndex": 2,
+    "yingIndex": 5,
+    "flags": []
+  },
+  {
+    "id": 21,
+    "shiIndex": 4,
+    "yingIndex": 1,
+    "flags": []
+  },
+  {
+    "id": 22,
+    "shiIndex": 4,
+    "yingIndex": 1,
+    "flags": []
+  },
+  {
+    "id": 23,
+    "shiIndex": 2,
+    "yingIndex": 5,
+    "flags": []
+  },
+  {
+    "id": 24,
+    "shiIndex": 2,
+    "yingIndex": 5,
+    "flags": []
+  },
+  {
+    "id": 25,
+    "shiIndex": 4,
+    "yingIndex": 1,
+    "flags": []
+  },
+  {
+    "id": 26,
+    "shiIndex": 4,
+    "yingIndex": 1,
+    "flags": []
+  },
+  {
+    "id": 27,
+    "shiIndex": 4,
+    "yingIndex": 1,
+    "flags": []
+  },
+  {
+    "id": 28,
+    "shiIndex": 4,
+    "yingIndex": 1,
+    "flags": []
+  },
+  {
+    "id": 29,
+    "shiIndex": 6,
+    "yingIndex": 3,
+    "flags": ["遊魂"]
+  },
+  {
+    "id": 30,
+    "shiIndex": 6,
+    "yingIndex": 3,
+    "flags": ["帰魂"]
+  },
+  {
+    "id": 31,
+    "shiIndex": 4,
+    "yingIndex": 1,
+    "flags": []
+  },
+  {
+    "id": 32,
+    "shiIndex": 4,
+    "yingIndex": 1,
+    "flags": []
+  },
+  {
+    "id": 33,
+    "shiIndex": 4,
+    "yingIndex": 1,
+    "flags": []
+  },
+  {
+    "id": 34,
+    "shiIndex": 4,
+    "yingIndex": 1,
+    "flags": []
+  },
+  {
+    "id": 35,
+    "shiIndex": 2,
+    "yingIndex": 5,
+    "flags": []
+  },
+  {
+    "id": 36,
+    "shiIndex": 2,
+    "yingIndex": 5,
+    "flags": []
+  },
+  {
+    "id": 37,
+    "shiIndex": 4,
+    "yingIndex": 1,
+    "flags": []
+  },
+  {
+    "id": 38,
+    "shiIndex": 4,
+    "yingIndex": 1,
+    "flags": []
+  },
+  {
+    "id": 39,
+    "shiIndex": 4,
+    "yingIndex": 1,
+    "flags": []
+  },
+  {
+    "id": 40,
+    "shiIndex": 4,
+    "yingIndex": 1,
+    "flags": []
+  },
+  {
+    "id": 41,
+    "shiIndex": 4,
+    "yingIndex": 1,
+    "flags": []
+  },
+  {
+    "id": 42,
+    "shiIndex": 4,
+    "yingIndex": 1,
+    "flags": []
+  },
+  {
+    "id": 43,
+    "shiIndex": 4,
+    "yingIndex": 1,
+    "flags": []
+  },
+  {
+    "id": 44,
+    "shiIndex": 4,
+    "yingIndex": 1,
+    "flags": []
+  },
+  {
+    "id": 45,
+    "shiIndex": 2,
+    "yingIndex": 5,
+    "flags": []
+  },
+  {
+    "id": 46,
+    "shiIndex": 2,
+    "yingIndex": 5,
+    "flags": []
+  },
+  {
+    "id": 47,
+    "shiIndex": 4,
+    "yingIndex": 1,
+    "flags": []
+  },
+  {
+    "id": 48,
+    "shiIndex": 4,
+    "yingIndex": 1,
+    "flags": []
+  },
+  {
+    "id": 49,
+    "shiIndex": 4,
+    "yingIndex": 1,
+    "flags": []
+  },
+  {
+    "id": 50,
+    "shiIndex": 4,
+    "yingIndex": 1,
+    "flags": []
+  },
+  {
+    "id": 51,
+    "shiIndex": 6,
+    "yingIndex": 3,
+    "flags": ["遊魂"]
+  },
+  {
+    "id": 52,
+    "shiIndex": 6,
+    "yingIndex": 3,
+    "flags": ["帰魂"]
+  },
+  {
+    "id": 53,
+    "shiIndex": 4,
+    "yingIndex": 1,
+    "flags": []
+  },
+  {
+    "id": 54,
+    "shiIndex": 4,
+    "yingIndex": 1,
+    "flags": []
+  },
+  {
+    "id": 55,
+    "shiIndex": 4,
+    "yingIndex": 1,
+    "flags": []
+  },
+  {
+    "id": 56,
+    "shiIndex": 4,
+    "yingIndex": 1,
+    "flags": []
+  },
+  {
+    "id": 57,
+    "shiIndex": 6,
+    "yingIndex": 3,
+    "flags": ["遊魂"]
+  },
+  {
+    "id": 58,
+    "shiIndex": 6,
+    "yingIndex": 3,
+    "flags": ["帰魂"]
+  },
+  {
+    "id": 59,
+    "shiIndex": 4,
+    "yingIndex": 1,
+    "flags": []
+  },
+  {
+    "id": 60,
+    "shiIndex": 4,
+    "yingIndex": 1,
+    "flags": []
+  },
+  {
+    "id": 61,
+    "shiIndex": 4,
+    "yingIndex": 1,
+    "flags": []
+  },
+  {
+    "id": 62,
+    "shiIndex": 4,
+    "yingIndex": 1,
+    "flags": []
+  },
+  {
+    "id": 63,
+    "shiIndex": 4,
+    "yingIndex": 1,
+    "flags": ["六合"]
+  },
+  {
+    "id": 64,
+    "shiIndex": 4,
+    "yingIndex": 1,
+    "flags": ["六冲"]
+  }
+]
